@@ -1,0 +1,10 @@
+{
+    "packages": [
+        {
+            "name": "mcraft proxy",
+            "version": "0.0.5",
+            "scriptMainUnstable": true,
+            "description": "proxy"
+        },
+           ]
+}
